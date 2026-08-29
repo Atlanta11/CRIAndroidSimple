@@ -160,6 +160,14 @@ Open the folder in Android Studio and let Gradle sync.
 
 ----
 
+
+
+
+
+
+
+
+
 <img width="1489" height="856" alt="Schermafbeelding 2026-08-29 223235" src="https://github.com/user-attachments/assets/fe269a65-7631-44d7-9b7a-9149fb5a28ea" />
 
 ----
