@@ -1,0 +1,39 @@
+
+<resources>
+
+    <style name="Theme.CRIAndroid"
+        parent="Theme.Material3.Light.NoActionBar">
+
+        <item name="android:fontFamily">sans</item>
+
+        <!-- Volledig scherm -->
+        <item name="android:windowFullscreen">true</item>
+
+        <!-- Geen ActionBar -->
+        <item name="windowActionModeOverlay">true</item>
+
+        <!-- Systeem-balken -->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        <!-- Blauw -->
+        <item name="colorPrimary">#0000FF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorPrimaryContainer">#0000FF</item>
+        <item name="colorOnPrimaryContainer">#FFFFFF</item>
+
+        <item name="colorSecondary">#0000FF</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="colorSecondaryContainer">#0000FF</item>
+        <item name="colorOnSecondaryContainer">#FFFFFF</item>
+
+    </style>
+
+</resources>
+
+
+
