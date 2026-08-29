@@ -146,31 +146,6 @@ The log can be used to troubleshoot:
 * Program status
 * Errors and responses
 
-## Project Structure
-
-The main project contains:
-
-```text
-CRIAndroidSimple/
-├── app/
-│   └── src/
-│       └── main/
-│           ├── java/
-│           ├── res/
-│           └── ...
-├── program01.xml
-├── program02.xml
-├── program03.xml
-├── program04.xml
-├── program05.xml
-├── program06.xml
-├── program07.xml
-├── program08.xml
-└── program09.xml
-```
-
-The exact location of the program XML files depends on how they are configured in the Android project.
-
 ## Project
 
 CRIAndroidSimple is intended as a lightweight Android-based CRI client and control interface for the igus ReBeL robot.
@@ -205,7 +180,8 @@ Open the folder in Android Studio and let Gradle sync.
 
 
 
-<img width="844" height="451" alt="Schermafbeelding 2026-08-26 203053" src="https://github.com/user-attachments/assets/b8f3bd41-bf44-4de0-a5ae-efe7cf33dba4" />
+<img width="844" height="451" alt="Schermafbeelding 2026-08-26 203053" src="https://github.com/user-attachments/assets/b1d608ab-0652-4544-b863-8ac8a3243280" />
+
 
 
 
