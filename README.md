@@ -51,7 +51,7 @@ program09.xml
 
 ### Important
 
-The filenames must match the names expected by the application.
+The filenames must match the names expected by the application, while the button names can be changed by pressing and holding a button for a few seconds in Expert mode.
 
 ```text
 PROGRAM 1 → program01.xml
