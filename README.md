@@ -49,8 +49,6 @@ program08.xml
 program09.xml
 ```
 
-These files must be located in the application's configured program/resource directory.
-
 ### Important
 
 The filenames must match the names expected by the application.
